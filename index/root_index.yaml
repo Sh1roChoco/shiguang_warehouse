@@ -1262,3 +1262,9 @@ schools:
     name: "景德镇艺术职业大学"
     initial: "J"
     resource_folder: "JDZVUA"
+
+  - id: "AHUCM"
+    name: "安徽中医药大学"
+    initial: "A"
+    resource_folder: "AHUCM"
+    
