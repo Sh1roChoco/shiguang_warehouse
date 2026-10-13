@@ -1,10 +1,10 @@
 # 安徽中医药大学 · 拾光课程表适配配置
-# 位置：shiguang_warehouse/resources/AHTCM/adapters.yaml
+# 位置：shiguang_warehouse/resources/AHUCM/adapters.yaml
 adapters:
-  - adapter_id: "AHTCM_01"
+  - adapter_id: "AHUCM_01"
     adapter_name: "安徽中医药大学教务系统（乘方）"
     category: "BACHELOR_AND_ASSOCIATE"
-    asset_js_path: "ahtcm.js"
+    asset_js_path: "ahucm.js"
     import_url: "https://tpass.ahtcm.edu.cn/tpass/login?service=https%3A%2F%2Fjwxt.ahtcm.edu.cn%2Fnew%2FssoLogin"
     maintainer: "Sh1roChoco"
     description: "安徽中医药大学乘方教务课表导入。登录并进入「信息查询-课表查询」页面后点击导入，自动获取学期列表与开学日期，内置 14 节作息。"
